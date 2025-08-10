@@ -1,5 +1,0 @@
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/publish/publish/web.config
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/publish/publish/MyPortfolio.staticwebassets.endpoints.json
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/publish/publish/wwwroot/sample-data/weather.json
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/publish/publish/wwwroot/_framework/blazor.boot.json
-/Users/nisargmankad/Projects/NashSite/MyPortfolio/publish/web.config
