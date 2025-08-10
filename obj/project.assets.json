@@ -1763,11 +1763,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/MyPortfolio.csproj",
+      "projectUniqueName": "/Users/nisargmankad/Projects/new-fork/MyPortfolio/MyPortfolio.csproj",
       "projectName": "MyPortfolio",
-      "projectPath": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/MyPortfolio.csproj",
+      "projectPath": "/Users/nisargmankad/Projects/new-fork/MyPortfolio/MyPortfolio.csproj",
       "packagesPath": "/Users/nisargmankad/.nuget/packages/",
-      "outputPath": "/Users/nisargmankad/Projects/NashSite/MyPortfolio/obj/",
+      "outputPath": "/Users/nisargmankad/Projects/new-fork/MyPortfolio/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

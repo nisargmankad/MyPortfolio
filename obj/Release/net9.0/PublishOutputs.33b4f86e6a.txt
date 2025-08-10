@@ -1,0 +1,5 @@
+/Users/nisargmankad/Projects/new-fork/MyPortfolio/publish/publish/web.config
+/Users/nisargmankad/Projects/new-fork/MyPortfolio/publish/publish/MyPortfolio.staticwebassets.endpoints.json
+/Users/nisargmankad/Projects/new-fork/MyPortfolio/publish/publish/wwwroot/sample-data/weather.json
+/Users/nisargmankad/Projects/new-fork/MyPortfolio/publish/publish/wwwroot/_framework/blazor.boot.json
+/Users/nisargmankad/Projects/new-fork/MyPortfolio/publish/web.config
